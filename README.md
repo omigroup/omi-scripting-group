@@ -1,7 +1,11 @@
-# omi-wasm-group
+# OMI Scripting Working Group
 
-Welcome, we're just getting started! This group is intended to explore the realm of adding support for scripting for user generated content in "metaverse" applications. What all that means is still yet to be defined.
+## Working Agreement
 
-Join us in this [GitHub Discussion](https://github.com/omigroup/omi-wasm-group/discussions/4) to help us outline our goals and plan our first meeting sometime in the first two weeks of January.
+The OMI Scripting Working Group is working to produce a standard for scripting within metaverse environments that is interoperable between platforms, using the existing WASM runtime standard.
 
-This group is a subgroup of the [Open Metaverse Interoperability Group](https://github.com/omigroup/omigroup). Feel free to [join our Discord](https://discord.gg/NJtT9grz5E) and chat with us there.
+Make recommendations for platform implementers on safety, security and compatibility.
+
+The group is comprised of representatives from virtual world platforms and other creators working on the metaverse.
+
+We host our weekly meetings live [on Discord](https://discord.gg/NJtT9grz5E) on Tuesdays from 1630 - 1700 UTC in the #omi-weekly-meeting voice channel. Our meeting agendas and notes can be found in [GitHub discussions](https://github.com/omigroup/omi-wasm-group/discussions) and our WASM related discussions take place in the #omi-wasm-group channel.

@@ -4,7 +4,7 @@ The OMI Scripting Working Group discusses interoperable metaverse scripting betw
 
 ## Get Involved
 
-We host our weekly meetings live [on Discord](https://discord.gg/NJtT9grz5E) on Thursdays from 1700 - 1800 UTC in the #omi-weekly-meeting voice channel. Our meeting agendas and notes can be found in [GitHub discussions](https://github.com/omigroup/omi-scripting-group/discussions) and other discussions take place in the [#omi-scripting-group discord channel](https://discord.com/channels/770382203782692945/923269337656209530).
+We host our weekly meetings live [on Discord](https://discord.gg/Rypf8Kc6CZ) on Thursdays from 1700 - 1800 UTC in the #omi-weekly-meeting voice channel. Our meeting agendas and notes can be found in [GitHub discussions](https://github.com/omigroup/omi-scripting-group/discussions) and other discussions take place in the [#omi-scripting-group discord channel](https://discord.com/channels/770382203782692945/923269337656209530).
 
 Note: currently the meetups alternate each week between Developer Happy Hours (open chat and dev demos) and semi-formal group scoping discussions.
 
